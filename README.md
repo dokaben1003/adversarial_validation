@@ -9,6 +9,12 @@ Before running the notebook, ensure you have the following prerequisites:
 - Jupyter Notebook or JupyterLab
 - Required Python packages: pandas, scikit-learn, numpy, etc.
 
+You can install the required packages using the following command:
+
+```bash
+pip install -r requirements.txt
+```
+
 ## Usage
 To use this notebook:
 
