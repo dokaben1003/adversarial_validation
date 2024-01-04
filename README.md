@@ -1,0 +1,4 @@
+# adversarial_validtion
+
+
+target_encodingとcrossvalidationを加味したadversarial_varidation
