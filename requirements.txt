@@ -1,0 +1,8 @@
+scikit-learn==0.24.1  # For StratifiedKFold, GroupKFold, ShuffleSplit
+lightgbm==3.2.1       # For LightGBM modeling
+optuna==2.7.0         # For Optuna for hyperparameter optimization
+numpy==1.20.1         # For numerical operations
+pandas==1.2.3         # For data manipulation
+matplotlib==3.3.4     # For plotting
+scipy==1.6.2          # For statistical functions
+seaborn==0.11.1       # For statistical data visualization
